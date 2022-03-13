@@ -1,6 +1,6 @@
 # More documentation here: https://github.com/nicksnyder/go-i18n
 [home]
-other = "Home"
+other = "Acasa"
 
 [posts]
 other = "Tutoriale"
@@ -12,115 +12,115 @@ other = "Table of Contents"
 other = "Tags"
 
 [categories]
-other = "Categories"
+other = "Categorii"
 
 [at]
-other = "at"
+other = "la"
 
 [resume]
-other = "My resume"
+other = "CV-ul meu"
 
 [navigation]
-other = "Navigation"
+other = "Navigatie"
 
 [contact_me]
-other = "Contact me:"
+other = "Contacteaza-ma:"
 
 [email]
 other = "Email"
 
 [phone]
-other = "Phone"
+other = "Telefon"
 
 [newsletter_text]
-other = "Stay up to date with email notification"
+other = "Fi l curent cu ultimile noutati."
 
 [newsletter_input_placeholder]
-other = "Enter email"
+other = "Introdu adresa de email"
 
 [newsletter_warning]
-other = "By entering your email address, you agree to receive the newsletter of this website."
+other = "Prin introducerea adresei dvs. de e-mail, sunteti de acord sa primiti buletinul informativ al acestui site."
 
 [submit]
-other = "Submit"
+other = "Trimite"
 
 [hugoAttributionText]
-other = "Powered by"
+other = "Dezvoltat cu"
 
 [prev]
-other = "Prev"
+other = "Precedent"
 
 [next]
-other = "Next"
+other = "Urmatorul"
 
 [share_on]
-other = "Share on"
+other = "Distribuie pe"
 
 [improve_this_page]
-other = "Improve this page"
+other = "imbunatatiti aceasta pagina"
 
 [out_of]
-other = "out of"
+other = "din"
 
 [publications]
-other = "Publications"
+other = "Publicatii"
 
 [taken_courses]
-other = "Taken Courses"
+other = "Cursuri"
 
 [course_name]
-other = "Course Name"
+other = "Numele cursului"
 
 [total_credit]
-other = "Total Credit"
+other = "Nota finala"
 
 [obtained_credit]
-other = "Obtained Credit"
+other = "Nota obtinuta"
 
 [extracurricular_activities]
-other = "Extracurricular Activities"
+other = "Activitati extracurriculare"
 
 [show_more]
-other = "Show More"
+other = "Afiseaza mai multe"
 
 [show_less]
-other = "Show Less"
+other = "Afiseaza mai putine"
 
 [responsibilities]
-other = "Responsibilities:"
+other = "Responsibilitati:"
 
 [present]
-other = "Present"
+other = "Prezent"
 
 [comments_javascript]
-other = "Please enable JavaScript to view the"
+other = "Va rugam sa activati JavaScript pentru a vizualiza"
 
 [comments_by]
 other = "comments powered by"
 
 [read]
-other = "Read"
+other = "Citeste"
 
 [project_star]
 other = "Star"
 
 [project_details]
-other = "Details"
+other = "Detalii"
 
 [err_404]
-other = "The page you are looking for is not there yet."
+other = "Pagina pe care o cautati nu exista."
 
 [more]
-other = "More"
+other = "Mai mult"
 
 [view_certificate]
-other = "View Certificate"
+other = "Vezi Certificatul"
 
 [notes]
-other = "Notes"
+other = "Cheatsheet"
 
 [disclaimer_text]
 other = "Liability Notice"
 
 [search]
-other = "Search"
+other = "Cauta"
